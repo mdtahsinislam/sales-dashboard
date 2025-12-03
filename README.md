@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 # AutoBizz Job Task :   sales-dashboard that shows sales data.
+![Next.js MongoDB Amazona](https://github.com/mdtahsinislam/buyflow/blob/1bd96dd00435e5516de70bb6f1f64b099f5fb3f2/buyflow2.png)
 
 First, run the development server:
 
